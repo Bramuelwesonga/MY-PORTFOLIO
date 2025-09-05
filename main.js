@@ -35,7 +35,7 @@ $(document).ready(function(){
 
     // typing text animation script
     var typed = new Typed(".typing", {
-        strings: ["Network Administrator","Cybersecurity Ethuasist","IT support Specialist", "Front End Developer", "Designer",],
+        strings: ["IT Graduate||Cloud, Security & Networks Technologies||ICT support Specialist||AI Ethuasist",],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
@@ -48,7 +48,7 @@ $(document).ready(function(){
     });
 
     var typed = new Typed(".typing-2", {
-        strings: ["Network Administrator","Cybersecurity Ethuasist","IT support Specialist", "Front End Developer", "Designer",],
+        strings: ["IT Graduate||Cloud, Security & Networks Technologies||ICT support Specialist||AI Ethuasist",],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
